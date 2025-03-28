@@ -1,4 +1,4 @@
-# CreditCard_Churn_Analysis-using-MachineLearning
+# Customer_Churn_Prediction-using-MachineLearning
 
 ## Overview
 This project focuses on analyzing and visualizing a dataset to extract meaningful insights. The steps include data preprocessing, exploratory data analysis (EDA), and visualization techniques to uncover trends and patterns.
